@@ -9431,6 +9431,26 @@
             <embedded-unit id="minecraft_-253"/>
         </positioning>
     </schema>
+    <schema id="kthompson_1684758847131">
+        <metadata>
+            <author>kthompson</author>
+            <creation-date>1684758847131</creation-date>
+            <lastModifier>n/a</lastModifier>
+            <lastModificationDate>0</lastModificationDate>
+        </metadata>
+        <characterisation>
+            <type>Complex_discourse_unit</type>
+            <featureSet/>
+        </characterisation>
+        <positioning>
+            <embedded-unit id="minecraft_-9"/>
+            <embedded-unit id="minecraft_-11"/>
+            <embedded-unit id="minecraft_-15"/>
+            <embedded-unit id="minecraft_-19"/>
+            <embedded-unit id="minecraft_-21"/>
+            <embedded-unit id="minecraft_-25"/>
+        </positioning>
+    </schema>
     <schema id="kthompson_1684759001576">
         <metadata>
             <author>kthompson</author>
