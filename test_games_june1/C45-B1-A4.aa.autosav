@@ -3723,6 +3723,23 @@
             <embedded-unit id="minecraft_-88"/>
         </positioning>
     </schema>
+    <schema id="kthompson_1684589586354">
+        <metadata>
+            <author>kthompson</author>
+            <creation-date>1684589586354</creation-date>
+            <lastModifier>n/a</lastModifier>
+            <lastModificationDate>0</lastModificationDate>
+        </metadata>
+        <characterisation>
+            <type>Complex_discourse_unit</type>
+            <featureSet/>
+        </characterisation>
+        <positioning>
+            <embedded-unit id="minecraft_-8"/>
+            <embedded-unit id="minecraft_-10"/>
+            <embedded-unit id="minecraft_-12"/>
+        </positioning>
+    </schema>
     <schema id="kthompson_1684589599960">
         <metadata>
             <author>kthompson</author>
@@ -3758,6 +3775,23 @@
             <embedded-unit id="minecraft_-30"/>
         </positioning>
     </schema>
+    <schema id="kthompson_1684589660001">
+        <metadata>
+            <author>kthompson</author>
+            <creation-date>1684589660001</creation-date>
+            <lastModifier>n/a</lastModifier>
+            <lastModificationDate>0</lastModificationDate>
+        </metadata>
+        <characterisation>
+            <type>Complex_discourse_unit</type>
+            <featureSet/>
+        </characterisation>
+        <positioning>
+            <embedded-unit id="minecraft_-32"/>
+            <embedded-unit id="minecraft_-34"/>
+            <embedded-unit id="minecraft_-35"/>
+        </positioning>
+    </schema>
     <schema id="kthompson_1684589671175">
         <metadata>
             <author>kthompson</author>
@@ -3782,6 +3816,23 @@
             <embedded-unit id="minecraft_-55"/>
         </positioning>
     </schema>
+    <schema id="kthompson_1684589755754">
+        <metadata>
+            <author>kthompson</author>
+            <creation-date>1684589755754</creation-date>
+            <lastModifier>n/a</lastModifier>
+            <lastModificationDate>0</lastModificationDate>
+        </metadata>
+        <characterisation>
+            <type>Complex_discourse_unit</type>
+            <featureSet/>
+        </characterisation>
+        <positioning>
+            <embedded-unit id="minecraft_-63"/>
+            <embedded-unit id="minecraft_-64"/>
+            <embedded-unit id="minecraft_-70"/>
+        </positioning>
+    </schema>
     <schema id="kthompson_1684589781311">
         <metadata>
             <author>kthompson</author>
@@ -3801,6 +3852,22 @@
             <embedded-unit id="minecraft_-76"/>
             <embedded-unit id="minecraft_-78"/>
             <embedded-unit id="minecraft_-80"/>
+        </positioning>
+    </schema>
+    <schema id="kthompson_1684589846277">
+        <metadata>
+            <author>kthompson</author>
+            <creation-date>1684589846277</creation-date>
+            <lastModifier>n/a</lastModifier>
+            <lastModificationDate>0</lastModificationDate>
+        </metadata>
+        <characterisation>
+            <type>Complex_discourse_unit</type>
+            <featureSet/>
+        </characterisation>
+        <positioning>
+            <embedded-unit id="minecraft_-82"/>
+            <embedded-unit id="minecraft_-84"/>
         </positioning>
     </schema>
 </annotations>
