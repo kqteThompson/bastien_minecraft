@@ -4261,7 +4261,7 @@
             <lastModificationDate>0</lastModificationDate>
         </metadata>
         <characterisation>
-            <type>Result</type>
+            <type>Acknowledgement</type>
             <featureSet/>
         </characterisation>
         <positioning>
@@ -4939,134 +4939,6 @@
         <positioning>
             <term id="minecraft_-4"/>
             <term id="minecraft_-21"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955807257">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955807257</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-21"/>
-            <term id="minecraft_-49"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955831484">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955831484</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-49"/>
-            <term id="minecraft_-66"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955834384">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955834384</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-66"/>
-            <term id="minecraft_-75"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955839191">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955839191</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-75"/>
-            <term id="minecraft_-85"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955845694">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955845694</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-85"/>
-            <term id="minecraft_-127"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955847780">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955847780</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-127"/>
-            <term id="minecraft_-142"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955850157">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955850157</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-142"/>
-            <term id="minecraft_-168"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1685955851986">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1685955851986</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-168"/>
-            <term id="minecraft_-182"/>
         </positioning>
     </relation>
     <schema id="zbennis_1685954428458">
