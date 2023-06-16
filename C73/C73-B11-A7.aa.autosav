@@ -4229,38 +4229,6 @@
             <term id="minecraft_-87"/>
         </positioning>
     </relation>
-    <relation id="zbennis_1686927049592">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1686927049592</creation-date>
-            <lastModifier>zbennis</lastModifier>
-            <lastModificationDate>1686927055340</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Result</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-87"/>
-            <term id="zbennis_1686925390839"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1686927067659">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1686927067659</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-73"/>
-            <term id="minecraft_-99"/>
-        </positioning>
-    </relation>
     <schema id="zbennis_1686925375063">
         <metadata>
             <author>zbennis</author>

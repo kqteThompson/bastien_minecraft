@@ -11961,7 +11961,7 @@
             <lastModificationDate>0</lastModificationDate>
         </metadata>
         <characterisation>
-            <type>Result</type>
+            <type>Elaboration</type>
             <featureSet/>
         </characterisation>
         <positioning>
@@ -12335,54 +12335,6 @@
         <positioning>
             <term id="minecraft_-317"/>
             <term id="minecraft_-340"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1686908445459">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1686908445459</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-340"/>
-            <term id="minecraft_-363"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1686908447200">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1686908447200</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-363"/>
-            <term id="minecraft_-373"/>
-        </positioning>
-    </relation>
-    <relation id="zbennis_1686908462100">
-        <metadata>
-            <author>zbennis</author>
-            <creation-date>1686908462100</creation-date>
-            <lastModifier>n/a</lastModifier>
-            <lastModificationDate>0</lastModificationDate>
-        </metadata>
-        <characterisation>
-            <type>Narration</type>
-            <featureSet/>
-        </characterisation>
-        <positioning>
-            <term id="minecraft_-373"/>
-            <term id="minecraft_-388"/>
         </positioning>
     </relation>
     <schema id="zbennis_1686901069270">
